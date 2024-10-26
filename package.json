@@ -1,0 +1,19 @@
+{
+  "name": "otp-email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.3",
+    "nodemailer": "^6.9.15",
+    "svg-captcha": "^1.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
